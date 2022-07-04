@@ -1,5 +1,3 @@
-import 'dart:html';
-
 import 'package:dawui/dawui.dart';
 
 import 'src/main_app.dart';

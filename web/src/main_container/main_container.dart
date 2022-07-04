@@ -34,9 +34,18 @@ class MainContainer extends Widget {
               alignment: Alignment.topRight,
               child: Padding(
                 padding: EdgeInsets.all("8px"),
-                child: Text(
-                  "powerd by Dawui",
-                  style: TextStyle(color: Palette.textColorMuted, fontSize: 14),
+                child: Row(
+                  crossAxisAlignment: CrossAxisAlignment.center,
+                  children: [
+                    Padding(
+                      padding: EdgeInsets.all("8px"),
+                      child: Image("assets/images/dawui-logo.png", width: "14px", height: "14px"),
+                    ),
+                    Text(
+                      "powerd by Dawui",
+                      style: TextStyle(color: Palette.textColorMuted, fontSize: 14),
+                    ),
+                  ],
                 ),
               ),
             ),
