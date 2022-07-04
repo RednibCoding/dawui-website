@@ -1,2 +1,2 @@
-# dawui-website
+# dawui website
 Website of the dawui project
