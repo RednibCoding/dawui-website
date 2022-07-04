@@ -3306,7 +3306,7 @@ A.aq.prototype={
 q(){return new A.bN(A.t([new A.bI(),new A.bz()],t.p))}}
 A.bI.prototype={
 q(){var s,r,q="0px",p="16px",o="assets/images/dawui-logo.png",n="#FFFFFF",m="8px",l="Getting Started",k="Components",j=t.p,i=A.ek("#1D1E1D",new A.aB(new A.Z(new A.c1(A.t([new A.Z(A.em(o,"100px","100px"),new A.a7(p,p,p,p)),A.a0("Dawui",new A.a1(36,B.K,B.e,n))],j),B.y,B.h),new A.a7("20px",q,"20px",q))),"300px","100%"),h=A.t([new A.Z(A.em(o,"14px","14px"),new A.a7(m,m,m,m)),A.a0("powerd by Dawui",new A.a1(14,B.f,B.e,"#E0E0E0"))],j),g=A.a0("About",new A.a1(18,B.f,B.e,n))
-g=A.dQ(A.a0("About",null),!0,g)
+g=A.dQ(A.a0("About Section",null),!0,g)
 s=A.a0(l,new A.a1(18,B.f,B.e,n))
 s=A.dQ(A.a0(l,null),!1,s)
 r=A.a0(k,new A.a1(18,B.f,B.e,n))

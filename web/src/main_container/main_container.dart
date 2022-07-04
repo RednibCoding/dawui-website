@@ -54,7 +54,7 @@ class MainContainer extends Widget {
               child: TabView(
                 showBorder: false,
                 tabViewItems: [
-                  TabViewItem(title: Text("About", style: TextStyle(color: Palette.textColorSecondary)), isActive: true, body: Text("About")),
+                  TabViewItem(title: Text("About", style: TextStyle(color: Palette.textColorSecondary)), isActive: true, body: Text("About Section")),
                   TabViewItem(title: Text("Getting Started", style: TextStyle(color: Palette.textColorSecondary)), body: Text("Getting Started")),
                   TabViewItem(title: Text("Components", style: TextStyle(color: Palette.textColorSecondary)), body: Text("Components")),
                 ],
